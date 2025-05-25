@@ -1,0 +1,29 @@
+.project{
+    border: 1px solid rgba(128, 128, 128, 0.753);
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    transition: all 0.3s;
+    margin-bottom: 30px;
+}
+
+.project:hover{
+    border: 1px solid var(--text-color-light-opacity);
+    
+}   
+
+.project a{
+    display: inline-block;
+}
+
+.title{
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.description{
+    margin-bottom: 15px;
+    font-size: 14px;
+}

@@ -1,0 +1,41 @@
+@keyframes typing {
+  from {width: 0;}
+  to {width: 100%;}
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 6vh;
+}
+
+.nav-components{
+    display: flex;
+    gap: 40px;
+}
+
+.name{
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 24px;
+    animation: typing 1s steps(7, end);
+}
+
+.link{
+    font-size: 22px;
+    font-weight: bold;
+    list-style: none;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.img{
+    height: 50px;
+    border-radius: 7px;
+}

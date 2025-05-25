@@ -1,0 +1,55 @@
+@keyframes typing {
+  from {width: 0;}
+  to {width: 100%;}
+}
+
+.main{
+    padding: 30px 30px;
+    height: 75vh;
+}
+
+.heyo{
+    font-size: 22px;
+    white-space: nowrap;
+    animation: typing 0.5s steps(7, end);
+}
+
+.desc{
+    color: white;
+}
+
+.list-title{
+    list-style: none;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.skills{
+    display: flex;
+    gap: 30%;
+    padding: 15px 30px;
+}
+
+
+
+.skills ul li{
+    list-style: none;
+    margin-left: 30px;
+}
+
+.current-projects{
+    padding: 15px 30px;
+
+}
+
+.contact{
+    padding: 15px 30px;
+}
+
+.fun-section{
+    padding: 15px 30px;
+}
+.fun-section li{
+    list-style: none;
+}
