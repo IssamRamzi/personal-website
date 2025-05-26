@@ -3,18 +3,18 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://cdn-images.dzcdn.net/images/cover/765d647cc828d82e2039f07a3db5e103/0x1900-000000-80-0-0.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "https://cdn-images.dzcdn.net/images/cover/765d647cc828d82e2039f07a3db5e103/0x1900-000000-80-0-0.jpg",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "https://cdn-images.dzcdn.net/images/cover/765d647cc828d82e2039f07a3db5e103/0x1900-000000-80-0-0.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],
